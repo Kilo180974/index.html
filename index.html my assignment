@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html  langm "en">
+   <head>
+   <title>My personal bio infomation</title>
+   </head>
+   <body>
+   <h1>First Name: Knowledge  Last Name: Takavarasha</h1>
+   <img src=pic_EnglandUKFlag.jpg" alt="England Uk flag">
+   <h2> My hobbies are:</h2>
+   <ul>
+   <li>Tennis</li>
+   <li>Running</li>
+   <li>Gardening</li>
+   </ul>
+   <p>I am a trained nurse, worked in healthcare recruitment and now learning to be a developer.</p>
+   
+  <form action="/action_page.php">
+  <label for="fname">Full name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="email">Email address:</label><br>
+  <input type="text" id="email" name="email">
+  <label for="comments">Comments:</label><br>
+  <input type="text" id="comments" name="comments"><br><br>
+  <input type="submit" value="Submit">
+</form>
+  
+   
+   </body>
+   </html>
